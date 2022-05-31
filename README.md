@@ -1,4 +1,4 @@
-## v2ray-heroku
+## outnetwork
 [![](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/ligeance0840/outnetwork)
 
 ### heroku上部署v2ray
